@@ -28,4 +28,8 @@ An interactive Power BI dashboard developed to analyze Superstore sales, profit,
 **Power BI | Power Query | DAX**
 
 ## 📁 Project File
-<a href="">Project File</a>
+<a href="https://github.com/Amrusha25/SUPERSTORE-SALES-DASHBOARD-POWERBI/blob/main/SUPERSTORE%20SALES%20POWERBI%20DASHBOARD.pbix">Project File</a>
+
+## 📌 Conclusion
+
+The Superstore Sales Analysis project transforms raw sales data into an interactive Power BI dashboard. It provides a clear view of sales, profit, orders, customers, and product performance through KPIs, DAX measures, filters, and visualizations. The dashboard helps identify key trends, compare regional and category performance, and support data-driven business analysis.
